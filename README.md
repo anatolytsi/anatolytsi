@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Hey there, my name is Anatolii!</h2>
 
-<!--
-**anatolytsi/anatolytsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>I am an Embedded Software Developer, a future M.Sc. in Power Engineering, almost a Python Developer😂, and an IoT enthusiast!</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>
+    Master student in Power Engineering at <a href="https://www.tum.de/">Tecnical University of Munich</a>
+    </br>
+    Python Developement student at <a href="https://geekbrains.ru/">GeekBrains</a>
+    </br>
+    Embedded Software Werkstudent at <a href="https://lionsmart.com/">LION Smart</a>
+    </br>
+    Battery Management System Software Developer at <a href="https://tumhyperloop.de/">TUM Hyperloop</a>
+  </em>
+</p>
