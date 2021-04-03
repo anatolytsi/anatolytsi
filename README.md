@@ -1,6 +1,6 @@
 <h2>Hey there, my name is Anatolii!</h2>
 
-<h4>I am an Embedded Software Developer, a future M.Sc. in Power Engineering, almost a Python Developer😂, and an IoT enthusiast!</h4>
+<h4>I am an Embedded Software Developer, a future M.Sc. in Power Engineering, almost a Python Developer, and an IoT enthusiast!</h4>
 
 <p>
   <em>
