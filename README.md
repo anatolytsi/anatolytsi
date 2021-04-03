@@ -13,3 +13,6 @@
     Battery Management System Software Developer at <a href="https://tumhyperloop.de/">TUM Hyperloop</a>
   </em>
 </p>
+
+[![Linkedin: anatolytsi](https://img.shields.io/badge/-anatolytsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anatolytsi/)](https://www.linkedin.com/in/anatolytsi/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/anatolytsi?label=follow&style=social)](https://github.com/anatolytsi)
