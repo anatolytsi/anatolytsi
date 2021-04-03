@@ -4,9 +4,9 @@
 
 <p>
   <em>
-    Master student in Power Engineering at <a href="https://www.tum.de/">Tecnical University of Munich</a>
+    Master student in Power Engineering at <a href="https://www.tum.de/en/">Tecnical University of Munich</a>
     </br>
-    Python Developement student at <a href="https://geekbrains.ru/">GeekBrains</a>
+    Python Developement student at <a href="https://gb.ru/">GeekBrains</a>
     </br>
     Embedded Software Werkstudent at <a href="https://lionsmart.com/">LION Smart</a>
     </br>
