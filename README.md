@@ -18,5 +18,3 @@
 [![Anatolii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatolytsi&exclude_repo=django_opt_tools_gb,basic_course_django_gb&hide=makefile&count_private=true&theme=buefy&show_icons=true&layout=compact)](https://github.com/anatolytsi/)</br>
 [![Linkedin: anatolytsi](https://img.shields.io/badge/-anatolytsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anatolytsi/)](https://www.linkedin.com/in/anatolytsi/)
 [![GitHub: anatolytsi](https://img.shields.io/github/followers/anatolytsi?label=follow&style=social)](https://github.com/anatolytsi)
-
-<iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/anatolytsi/cv/main/CV_Anatolii_Tsirkunenko.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
