@@ -10,7 +10,7 @@
     </br>
     Embedded Software Werkstudent at <a href="https://lionsmart.com/">LION Smart</a>
     </br>
-    Battery Management System Software Developer at <a href="https://tumhyperloop.de/">TUM Hyperloop</a>
+    Firmware Developer at <a href="https://tumhyperloop.de/">TUM Hyperloop</a>
   </em>
 </p>
 
