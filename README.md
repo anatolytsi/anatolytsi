@@ -8,7 +8,7 @@
     </br>
     Firmware Advisor at <a href="https://tumhyperloop.de/">TUM Hyperloop</a>
     </br>
-    Python Developement Alumnus <a href="https://gb.ru/">GeekBrains</a>
+    Python Development Alumnus <a href="https://gb.ru/">GeekBrains</a>
     <br>
     M.Sc. in Power Engineering <a href="https://www.tum.de/en/">Technical University of Munich</a>
     </br>
