@@ -6,7 +6,7 @@
   <em>
     Embedded Software Developer BMS at <a href="https://lionsmart.com/">LION Smart</a>
     </br>
-    Firmware Advisor at <a href="https://tumhyperloop.de/">TUM Hyperloop</a>
+    Ex Firmware Developer at <a href="https://tumhyperloop.de/">TUM Hyperloop</a>
     </br>
     Python Development Alumnus <a href="https://gb.ru/">GeekBrains</a>
     <br>
